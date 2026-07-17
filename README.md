@@ -14,6 +14,6 @@ Audio Reactivity/Performance - Lily
 Bed Tracks - Aryan
 
 Appendix
-[Draw.io]([url](http://Draw.io))
-[Rider]([url](https://docs.google.com/document/d/1EqlOY7q_zz9aUwvVcR8hr-sDrE4wM5SX4Ex9vKfgtpU/edit?tab=t.ra6gpkrrge7c#heading=h.i2tto3codp7f))
-[Visual Score]([url](https://docs.google.com/document/d/1EqlOY7q_zz9aUwvVcR8hr-sDrE4wM5SX4Ex9vKfgtpU/edit?tab=t.s0yqnpf2swto))
+[Draw.io](http://Draw.io)
+[Rider](https://docs.google.com/document/d/1EqlOY7q_zz9aUwvVcR8hr-sDrE4wM5SX4Ex9vKfgtpU/edit?tab=t.ra6gpkrrge7c#heading=h.i2tto3codp7f)
+[Visual Score](https://docs.google.com/document/d/1EqlOY7q_zz9aUwvVcR8hr-sDrE4wM5SX4Ex9vKfgtpU/edit?tab=t.s0yqnpf2swto)
